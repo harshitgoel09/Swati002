@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/swati04921968" target="blank"><img src="https://img.shields.io/twitter/follow/swati04921968?logo=twitter&style=for-the-badge" alt="swati04921968" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png"> 
 <br>
-- 📫 How to reach me **swatigoel37@gmail.com**
+<!-- - 📫 How to reach me **swatigoel37@gmail.com** -->
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

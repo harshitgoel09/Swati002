@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati002" alt="swati002" /></a> </p>
 
+
 <p align="left"> <a href="https://twitter.com/swati04921968" target="blank"><img src="https://img.shields.io/twitter/follow/swati04921968?logo=twitter&style=for-the-badge" alt="swati04921968" /></a> </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/young-tiny-girl-sitting-coding-via-laptop-computer-programmer-code-flat-vector-illustration-it-digital-technology_10174104.htm#query=programming%20woman&from_query=programming%20girl&position=3&from_view=search">  -->
+<img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png"> 
 
 - 📫 How to reach me **swatigoel37@gmail.com**
 

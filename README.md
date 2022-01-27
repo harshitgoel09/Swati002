@@ -27,3 +27,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swati002&show_icons=true&locale=en" alt="swati002" /></p>
 <br> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati002&" alt="swati002" /></p>
+
+#### <h3> Visitor Count: </h3>
+![Visitor Count](https://profile-counter.glitch.me/Swati002/count.svg)

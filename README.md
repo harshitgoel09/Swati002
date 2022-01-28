@@ -4,15 +4,15 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati002" alt="swati002" /></a> </p> -->
 <br>
 <br>
-
-
 <p align="center"> <a href="https://twitter.com/swati04921968" target="blank"><img src="https://img.shields.io/twitter/follow/swati04921968?logo=twitter&style=for-the-badge" alt="swati04921968" /></a> </p>
+
+
 <img align="right" alt="Coding" width="400" src="https://github.com/Swati002/Swati002/blob/main/image.png"> 
 <br>
 <!-- - 📫 How to reach me **swatigoel37@gmail.com** -->
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/swati04921968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swati04921968" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swati-goel-1115141b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-goel-1115141b9" height="30" width="40" /></a>
 <a href="https://instagram.com/i_swatigoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_swatigoel" height="30" width="40" /></a>

@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swati Goel</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati002" alt="swati002" /></a> </p> -->
-<br>
 <br>
 <p align="center"> <a href="https://twitter.com/swati04921968" target="blank"><img src="https://img.shields.io/twitter/follow/swati04921968?logo=twitter&style=for-the-badge" alt="swati04921968" /></a> </p>
 
@@ -33,9 +31,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swati002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="swati002" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swati002&show_icons=true&locale=en&theme=tokyonight" alt="swati002" /></p>
-<br> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati002&theme=tokyonight" alt="swati002" /></p>
 <br>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati002&theme=tokyonight" alt="swati002" /></p>
+<br>  -->
+
 <!-- ##### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Swati002/count.svg) -->
 

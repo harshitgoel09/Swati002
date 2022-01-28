@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swati Goel</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swati002&label=Profile%20views&color=0e75b6&style=flat" alt="swati002" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati002&label=Profile%20views&color=0e75b6&style=flat" alt="swati002" /> </p>
+ -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swati002" alt="swati002" /></a> </p>
 <br>
 
@@ -30,3 +30,6 @@
 
 <!-- ##### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Swati002/count.svg) -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swati002&label=Profile%20views&color=0e75b6&style=flat" alt="swati002" /> </p>
+

@@ -3,9 +3,7 @@
 
 <br>
 <p align="center"> <a href="https://twitter.com/swati04921968" target="blank"><img src="https://img.shields.io/twitter/follow/swati04921968?logo=twitter&style=for-the-badge" alt="swati04921968" /></a> </p>
-
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Swati002&theme=juicyfresh" alt="Swati002" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Swati002&theme=juicyfresh" alt="Swati002" /></a> </p> -->
 
 <br>
 

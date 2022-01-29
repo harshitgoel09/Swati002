@@ -30,8 +30,8 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=swati002&show_icons=true&locale=en&theme=tokyonight" alt="swati002" /></p>
 <br>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati002&theme=tokyonight" alt="swati002" /></p>
-<br>  -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swati002&theme=tokyonight" alt="swati002" /></p>
+<br> 
 
 <!-- ##### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Swati002/count.svg) -->
